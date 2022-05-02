@@ -6,8 +6,6 @@ export default function Subject(){
         <div>
             <h2>CHOOSE SUBJECT </h2>
 
-
-
         </div>
     )
 }
