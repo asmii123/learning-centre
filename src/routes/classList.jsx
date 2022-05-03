@@ -7,7 +7,7 @@ function ClassList(props) {
   return (
     <Box component={"div"} display={"grid"} gap={2}>
       <Box textAlign={"center"}>
-        <Typography fontSize={30} textTransform={"uppercase"}>
+        <Typography fontSize={28} textTransform={"uppercase"}>
           Choose your class
         </Typography>
       </Box>
