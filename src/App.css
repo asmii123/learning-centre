@@ -3,12 +3,12 @@
 .cards{
 
   margin-top: 65px;
-  
+ 
 }
 
-Body h1{
-  text-align: center;
 
+Body h1 {
+  text-align: center;
 }
 
 .card--name{
@@ -20,4 +20,15 @@ Body h1{
 .box--color-{
   border-color: brown;
   border: 10px solid red;
+}
+
+.subject--header{
+  text-align: center;
+}
+
+.subject--name{
+  margin:20px;
+  text-align: left;
+  margin-top: 50px;
+  padding-top: 5px;
 }
